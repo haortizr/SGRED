@@ -1,6 +1,7 @@
 # SGRED
 Sistema de Gestión de Recursos Educativos Digitales
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/64f7225d9e484c7a93ef033aa7f5092b)](https://app.codacy.com/app/NestorRomeroUAndes/SGRED?utm_source=github.com&utm_medium=referral&utm_content=haortizr/SGRED&utm_campaign=Badge_Grade_Settings)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## Prerequisitos
 * Install python2.7, install pip, install git
